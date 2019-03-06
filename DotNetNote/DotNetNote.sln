@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetNote", "DotNetNote\DotNetNote.csproj", "{F1A1BD30-20F8-4E0F-92C4-2DC774ECC7E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetNote.Models", "DotNetNote.Models\DotNetNote.Models.csproj", "{C5FF9E1D-F396-4C2F-BDDA-4FDE827E2CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet", "DotNet\DotNet.csproj", "{CD8B5C2A-4F8C-4F0C-8568-83FFACB9492A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoEngine", "MemoEngine\MemoEngine.csproj", "{4E9AB606-7D14-457B-8576-FFEC1F37CF53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetMemo", "DotNetMemo\DotNetMemo.csproj", "{BFBD43F9-6DD5-4E48-97E7-EEC6FE5D45FB}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DotNetNote.Database", "DotNetNote.Database\DotNetNote.Database.sqlproj", "{5CF79577-92E2-42B5-A400-9E9D4D847601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1A1BD30-20F8-4E0F-92C4-2DC774ECC7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A1BD30-20F8-4E0F-92C4-2DC774ECC7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A1BD30-20F8-4E0F-92C4-2DC774ECC7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A1BD30-20F8-4E0F-92C4-2DC774ECC7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5FF9E1D-F396-4C2F-BDDA-4FDE827E2CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5FF9E1D-F396-4C2F-BDDA-4FDE827E2CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5FF9E1D-F396-4C2F-BDDA-4FDE827E2CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5FF9E1D-F396-4C2F-BDDA-4FDE827E2CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8B5C2A-4F8C-4F0C-8568-83FFACB9492A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8B5C2A-4F8C-4F0C-8568-83FFACB9492A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8B5C2A-4F8C-4F0C-8568-83FFACB9492A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8B5C2A-4F8C-4F0C-8568-83FFACB9492A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E9AB606-7D14-457B-8576-FFEC1F37CF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9AB606-7D14-457B-8576-FFEC1F37CF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9AB606-7D14-457B-8576-FFEC1F37CF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9AB606-7D14-457B-8576-FFEC1F37CF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBD43F9-6DD5-4E48-97E7-EEC6FE5D45FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBD43F9-6DD5-4E48-97E7-EEC6FE5D45FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBD43F9-6DD5-4E48-97E7-EEC6FE5D45FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBD43F9-6DD5-4E48-97E7-EEC6FE5D45FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF79577-92E2-42B5-A400-9E9D4D847601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF79577-92E2-42B5-A400-9E9D4D847601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF79577-92E2-42B5-A400-9E9D4D847601}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5CF79577-92E2-42B5-A400-9E9D4D847601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF79577-92E2-42B5-A400-9E9D4D847601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF79577-92E2-42B5-A400-9E9D4D847601}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F98300-B748-4463-ACC1-AF05DD0D6D1F}
+	EndGlobalSection
+EndGlobal
