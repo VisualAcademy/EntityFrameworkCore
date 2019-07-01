@@ -1,0 +1,12 @@
+﻿@model List<ProfitModel>
+
+<ul>
+@foreach (var p in Model)
+{
+    <li>@p.Profit</li>
+}
+</ul>
+
+<hr />
+
+<a href="/ProfiltManager/InitailData">초기 데이터 생성</a>
